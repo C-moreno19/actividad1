@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto6 () {
 
   print("Cuantos grados celsius tiene el horno?");
   String texto = stdin.readLineSync()!;

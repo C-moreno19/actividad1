@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-void main() {
+void punto5 () {
   // Pedir el primer lado
   print("Cuanto mide el lado a?");
   String textoA = stdin.readLineSync()!;

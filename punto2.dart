@@ -1,5 +1,5 @@
 import 'dart:io';
-void main() {
+void punto2 () {
   calcularPromedio();
 }
 void calcularPromedio() {

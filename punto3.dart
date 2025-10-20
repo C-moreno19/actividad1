@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto3() {
   print('Ingrese partidos ganados:');
   int ganados = int.parse(stdin.readLineSync()!);
 

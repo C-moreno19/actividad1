@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void punto4 () {
   print("Nombre:");
   var nombre = stdin.readLineSync()!;
   
